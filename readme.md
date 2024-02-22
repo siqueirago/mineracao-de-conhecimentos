@@ -43,12 +43,12 @@ O primeiro passo deste projeto será criar os seguintes recursos usando uma assi
 
 1. Retornando à home page do portal do Azure.Criar um novo recurso, desta vez, criar um plano de **Serviços de IA do Azure**, com as seguintes configurações:
   
-  * **Assinatura**: sua assinatura do Azure.
-  * **Grupo de recursos**: o mesmo grupo de recursos que seu recurso de Pesquisa de IA do Azure.
-  * **Região**: o mesmo local que seu recurso de Pesquisa de IA do Azure.
-  * **Nome**: Um nome exclusivo.
-  * **Nível de preços**: Standard S0
-  * **Ao marcar esta caixa reconheço que li e compreendi todos os termos abaixo**: Selecionado
+   * **Assinatura**: sua assinatura do Azure.
+   * **Grupo de recursos**: o mesmo grupo de recursos que seu recurso de Pesquisa de IA do Azure.
+   * **Região**: o mesmo local que seu recurso de Pesquisa de IA do Azure.
+   * **Nome**: Um nome exclusivo.
+   * **Nível de preços**: Standard S0
+   * **Ao marcar esta caixa reconheço que li e compreendi todos os termos abaixo**: Selecionado
 2. Selecionar Revisar + criar. Depois de ver a resposta Validação aprovada, selecione Criar.
 * Aguarde a conclusão da implantação e exiba os detalhes da implantação.
   
