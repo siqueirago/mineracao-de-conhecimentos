@@ -10,7 +10,7 @@ da Microsoft.
 ## Objetivo
 Este projeto representa uma oportunidade para aplicar e expandir meus conhecimentos práticos como estudante. 
 Ao trabalhar neste projeto, espero adquirir habilidades valiosas e experiência no campo da mineração de dados e inteligência artificial.
-Neste trabalho , vou experimentar  o processo de desenvolvimento da solução de mineração de conhecimento usando o índice de Pesquisa de IA do Azure.
+Neste trabalho , será experimentado  o processo de desenvolvimento da solução de mineração de conhecimento usando o índice de Pesquisa de IA do Azure.
 
 * Criar recursos do Azure
 * Extrair dados de uma fonte de dados
