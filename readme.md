@@ -1,8 +1,7 @@
 # Mineração de Conhecimento: Desenvolvendo um Índice de Pesquisa de IA do Azure 
 ## Introdução
 No cenário atual de negócios, entender e atender às necessidades do cliente é essencial para o sucesso de qualquer empresa. Como  por exemplo uma rede nacional de cafés, 
-a *Fourth Coffee*  que está comprometida em oferecer experiências excepcionais aos seus clientes. Para alcançar esse objetivo, a empresa  precisa acompanhar e reconhece a importância
-de compreender as percepções e os feedbacks dos clientes.
+a *Fourth Coffee*  que está comprometida em oferecer experiências excepcionais aos seus clientes. Para alcançar esse objetivo, a empresa  precisa acompanhar e reconhece a importância  das percepções e os feedbacks dos clientes.
 
 Neste contexto, como  se fosse membro da equipe da Fourth Coffee, fui encarregado de desenvolver uma solução inovadora que facilite a extração de insights valiosos a partir das avaliações dos clientes. 
 Com o objetivo de agilizar esse processo e torná-lo mais eficiente, optei por criar um índice de Pesquisa de IA do Azure, uma ferramenta poderosa baseada na plataforma de inteligência artificial
