@@ -16,7 +16,6 @@ da Microsoft.
 * Usar o indexador do Azure no portal do Azure
 * Consultar o índice de pesquisa
 * Revisar resultados salvos em um Knowledge Store
-  
 ## Procedimentos
 
 O primeiro passo deste projeto será criar os seguintes recursos usando uma assinatura do Azure:
@@ -32,7 +31,7 @@ O primeiro passo deste projeto será criar os seguintes recursos usando uma assi
 2. Clique no botão + Criar um recurso, procure Pesquisa de IA do Azure e crie um recurso de Pesquisa de IA do Azure com as seguintes configurações:
 
   * **Assinatura**: sua assinatura do Azure.
-  * **Grupo de recursos**: selecione ou crie um grupo de recursos com um nome exclusivo.
+  * **Grupo de recursos**: selecione ou crie         um grupo de recursos com um nome exclusivo.
   * **Nome do serviço**: um nome exclusivo.
   * **Localização**: Escolha qualquer região disponível.
   * **Nível de preços**: Básico
