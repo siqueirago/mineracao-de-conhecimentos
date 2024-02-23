@@ -114,7 +114,7 @@ O primeiro passo deste projeto será criar os seguintes recursos usando uma assi
 ![img](https://github.com/siqueirago/mineracao-de-conhecimentos/assets/152822615/57248bb9-e1d0-41ba-a352-eb5ddeea524a)
 
 ## Conclusão
-Durante este laboratório consegui realizar o passo a passo do projeto proposto. Tive alguma dificuldade, mas nada de viesse impedir o deseolvolvimento desse projeto.
+Durante este laboratório consegui realizar o passo a passo do projeto proposto. Tive algumas dificuldades, mas nada de viesse impedir o deseolvolvimento desse projeto.
 Adqueri bastante conhecimento, criei os recursos necessários, fiz a manipulação dos dados e visualizar os resultados. Foi bastante proveitoso espero que a cada dia 
 melhorar.
 
